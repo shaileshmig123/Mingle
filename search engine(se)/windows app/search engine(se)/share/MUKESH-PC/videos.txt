@@ -1,0 +1,4 @@
+english
+HD videos
+new songs
+Thumbs.db

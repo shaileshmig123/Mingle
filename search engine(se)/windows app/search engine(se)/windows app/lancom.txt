@@ -1,0 +1,60 @@
+Server Name            Remark
+
+-------------------------------------------------------------------------------
+\\8055H                                                                        
+\\ABHI                                                                         
+\\AIMAN                DELL                                                    
+\\ALING-PC                                                                     
+\\ALOK-VAIO                                                                    
+\\ANKIT                                                                        
+\\ANKUR-PC                                                                     
+\\ANUTOSH              zerocool                                                
+\\ASHISH                                                                       
+\\ASHU-PC                                                                      
+\\ASHWANI-PC                                                                   
+\\ASHWINI-PC           ASHWINI-PC                                              
+\\ASSASINO                                                                     
+\\AVIRALSINGH-PC                                                               
+\\CUBIC                                                                        
+\\DELL                                                                         
+\\DHARMJEET                                                                    
+\\ETERNAL                                                                      
+\\HAWK                 hawk                                                    
+\\HP                                                                           
+\\HP-HP                                                                        
+\\HP-NMN                                                                       
+\\IFILTRATOR-HP                                                                
+\\JEET-PC                                                                      
+\\KDUO-PC                                                                      
+\\LIL_DEVEL            LiL D3v3L                                               
+\\LUCKY                                                                        
+\\MADHUR-PC                                                                    
+\\MIG-PC                                                                       
+\\MISHRA-GAURAV                                                                
+\\MKV                                                                          
+\\MOHIT_CHAUHAN        Mohit chauhan_EC                                        
+\\MUKESH                                                                       
+\\NICK-HP              NICK                                                    
+\\PAPPU-PC                                                                     
+\\PRASHANT                                                                     
+\\R                                                                            
+\\ROONEY-PC                                                                    
+\\ROONI-PC                                                                     
+\\SARDESH-PC                                                                   
+\\SHAILESH                                                                     
+\\SHAKYA-PC                                                                    
+\\SHIKHARR                                                                     
+\\SHUTDOWN                                                                     
+\\SILVER-PC            Ashish                                                  
+\\SONY-VAIO                                                                    
+\\SURAJPC                                                                      
+\\SURYA                                                                        
+\\TARUN-PC                                                                     
+\\TYGER                putty                                                   
+\\UMAK-PC                                                                      
+\\UNKNOWN                                                                      
+\\VAIO                                                                         
+\\VAIO-VAIO                                                                    
+\\VINEET-PC                                                                    
+The command completed successfully.
+

@@ -1,0 +1,75 @@
+a-schematic1-bias.mrk
+a-schematic1-bias.sim
+a-SCHEMATIC1-Default.mrk
+a.dsn
+a.opj
+aad-SCHEMATIC1-DIODE.mrk
+aad-SCHEMATIC1-DIODE.out
+aad-SCHEMATIC1-DIODE.out.1
+aad-SCHEMATIC1-DIODE.prb
+aad-SCHEMATIC1-DIODE.sim
+aad-SCHEMATIC1-DIODE.sim.cir
+aad-SCHEMATIC1-DIODE.sim.dat
+aad-SCHEMATIC1-DIODE.sim.out
+aad-SCHEMATIC1-DIODE.sim.prb
+aad-SCHEMATIC1-RESISTANCE.mrk
+aad-SCHEMATIC1-RESISTANCE.sim
+aad-SCHEMATIC1-RESISTANCE1.dat
+aad-SCHEMATIC1-RESISTANCE1.mrk
+aad-SCHEMATIC1-RESISTANCE1.out
+aad-SCHEMATIC1-RESISTANCE1.prb
+aad-SCHEMATIC1-RESISTANCE1.sim
+aad-SCHEMATIC1-RESISTANCE1.sim.cir
+aad-SCHEMATIC1-resistances.dat
+aad-SCHEMATIC1-resistances.mrk
+aad-SCHEMATIC1-resistances.out
+aad-SCHEMATIC1-resistances.sim
+aad-SCHEMATIC1-resistances.sim.cir
+aad-SCHEMATIC1-voltage point.mrk
+aad-SCHEMATIC1-voltage point.out
+aad-SCHEMATIC1-voltage point.sim
+aad-SCHEMATIC1-voltage point.sim.1OP
+aad-SCHEMATIC1-voltage point.sim.cir
+AAD-SCHEMATIC1.ALS
+AAD-SCHEMATIC1.net
+AAD.DBK
+AAD.DSN
+aad.opj
+Aptitude
+Automatic Control Systems-B.C.Kuo.pdf
+C++-The_Complete_Reference,_4th_Ed
+Circuit Design with VHDL
+Computer Organization and Architecture 6ed 2003.pdf
+desktop.ini
+digital
+digital abstraction.pdf
+e books
+ee321-lab09-bjt-amplifier.pdf
+ericcsoon
+GATE ECE SYLLABUS [PDF].pdf
+GATE_EC_by_RK_Kanodia.pdf
+GATE_EC_by_RK_Kanodia.rar
+How To Remove Backgrounds In Photoshop - YouTube.flv
+ies previous yr papers
+image processing.pdf
+information
+lectures on EC
+Lectures others
+ltspice
+memory.pdf
+neural network
+new
+op amp
+photoshop
+principles_of_computer_architecture
+ProgEmbeddedSystemII.rar
+project
+PSU_syllabus%20Electronics.pdf
+Stephen_Hawking_-_A_Brief_History_Of_Time
+Stephen_Hawking_-_Theory_of_Everything.pdf
+Syllabus for Electronics and Communication Engineering (EC)   GATE 2013.htm
+Syllabus for Electronics and Communication Engineering (EC)   GATE 2013_files
+Telemetry- Patranbis.pdf
+The Artists Complete Guide To Facial Expressions.pdf
+vhdl
+tcs

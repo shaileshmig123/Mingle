@@ -1,0 +1,8 @@
+bz2.pyd
+create.exe
+library.zip
+python26.dll
+select.pyd
+storage.exe
+unicodedata.pyd
+w9xpopen.exe
